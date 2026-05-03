@@ -15349,6 +15349,62 @@
             }
         ]
     },
+    "ShowTime Purple Guy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://108158242380151",
+        "Rarity": "Apex",
+        "PlacePrice": 45000,
+        "Max": 1,
+        "Passive": {"Name": "Its Show Time", "Description": "ShowTime Purple Guy summons the 6 souls of the Circus as Summoners which Their health is two times His Damage and  also buffs his Damage by 30%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 3750,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 60000,
+                "Range": 40,
+                "Damage": 6250,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 70000,
+                "Range": 45,
+                "Damage": 7500,
+                "Cooldown": 0.25,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            }
+        ]
+    },
     "Fallen Angel": {
         "Type": "Pierce",
         "Image": "rbxassetid://101957224781287",
