@@ -15405,11 +15405,11 @@
             }
         ]
     },
-    "Fallen Angel": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://101957224781287",
-        "Rarity": "Apex",
-        "PlacePrice": 45000,
+    "Fallen Angel Nightmarionne": {
+        "Type": "AOE",
+        "Image": "rbxassetid://78551642594382",
+        "Rarity": "Nightmare",
+        "PlacePrice": 6660,
         "Max": 1,
         "Passive": {"Name": "Final Stand", "Description": "Once Fully Upgraded Fallen Angel Gives All Units In Range It Gives An Damage Buff By 10%"},
         "hitboxOffset": {
@@ -15421,42 +15421,65 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 3750,
-                "Cooldown": 0.25,
-                "Wither": 1.10,
-                "ShinyWither": 1.10,
-                "WitherTime": 1,
+                "Range": 24,
+                "Damage": 700,
+                "Cooldown": 4,
                 "DamageBoost": 1.30
             },
             {
-                "Price": 50000,
-                "Range": 35,
-                "Damage": 5000,
-                "Cooldown": 0.25,
-                "Wither": 1.10,
-                "ShinyWither": 1.10,
-                "WitherTime": 1,
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 850,
+                "Cooldown": 4,
                 "DamageBoost": 1.30
             },
             {
-                "Price": 60000,
-                "Range": 40,
-                "Damage": 6250,
-                "Cooldown": 0.25,
-                "Wither": 1.10,
-                "ShinyWither": 1.10,
-                "WitherTime": 1,
+                "Price": 4000,
+                "Range": 26,
+                "Damage": 1150,
+                "Cooldown": 4.2,
                 "DamageBoost": 1.30
             },
             {
-                "Price": 70000,
-                "Range": 45,
-                "Damage": 7500,
-                "Cooldown": 0.25,
-                "Wither": 1.10,
-                "ShinyWither": 1.10,
-                "WitherTime": 1,
+                "Price": 5000,
+                "Range": 26,
+                "Damage": 1200,
+                "Cooldown": 4.2,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 6250,
+                "Range": 27,
+                "Damage": 1400,
+                "Cooldown": 4.2,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 7500,
+                "Range": 27,
+                "Damage": 1900,
+                "Cooldown": 4.8,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 8750,
+                "Range": 27,
+                "Damage": 2200,
+                "Cooldown": 4.8,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 2600,
+                "Cooldown": 5,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 12500,
+                "Range": 28,
+                "Damage": 3000,
+                "Cooldown": 5,
                 "DamageBoost": 1.30
             }
         ]
